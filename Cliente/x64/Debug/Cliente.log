@@ -1,0 +1,5 @@
+﻿  Cliente.c
+C:\Users\Utilizador\Desktop\Exercicio1a8\Cliente\Cliente.c(74,12): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Utilizador\Desktop\Exercicio1a8\Cliente\Cliente.c(29,27): warning C4101: 'serv2_ip': variável local não referenciada
+C:\Users\Utilizador\Desktop\Exercicio1a8\Cliente\Cliente.c(29,37): warning C4101: 'serv_ip': variável local não referenciada
+  Cliente.vcxproj -> C:\Users\Utilizador\Desktop\Exercicio1a8\x64\Debug\Cliente.exe

@@ -1,0 +1,6 @@
+﻿  Servidor.c
+C:\Users\Utilizador\Desktop\Exercicio1a8\Servidor\Servidor.c(83,45): warning C4267: 'função': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Utilizador\Desktop\Exercicio1a8\Servidor\Servidor.c(27,26): warning C4101: 'msg': variável local não referenciada
+C:\Users\Utilizador\Desktop\Exercicio1a8\Servidor\Servidor.c(25,44): warning C4101: 'opt': variável local não referenciada
+C:\Users\Utilizador\Desktop\Exercicio1a8\Servidor\Servidor.c(25,23): warning C4101: 'msg_len': variável local não referenciada
+  Servidor.vcxproj -> C:\Users\Utilizador\Desktop\Exercicio1a8\x64\Debug\Servidor.exe
